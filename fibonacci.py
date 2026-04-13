@@ -16,6 +16,6 @@ if __name__ == "__main__":
     try:
         count = int(input("How many Fibonacci number do you want? "))
         fib_numbers = generate_fibonacci(count)
-        print("Fibonacci sequence:", fib_numbers)
+        print("Fibonacci seq:", fib_numbers)
     except ValueError:
         print("Please do enter a valid integer.")
