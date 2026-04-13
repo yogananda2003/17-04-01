@@ -18,4 +18,4 @@ if __name__ == "__main__":
         fib_numbers = generate_fibonacci(count)
         print("Fibonacci seq:", fib_numbers)
     except ValueError:
-        print("Please do enter a valid integer.")
+        print("Pls enter a valid integer.")
