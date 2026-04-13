@@ -14,8 +14,8 @@ def generate_fibonacci(n):
 
 if __name__ == "__main__":
     try:
-        count = int(input("How many Fibonacci numbers do you want? "))
+        count = int(input("How many Fibonacci number do you want? "))
         fib_numbers = generate_fibonacci(count)
         print("Fibonacci sequence:", fib_numbers)
     except ValueError:
-        print("Please enter a valid integer.")
+        print("Please do enter a valid integer.")
