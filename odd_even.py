@@ -9,7 +9,7 @@ def main() -> None:
         result = check_odd_even(user_input)
         print(f"The number is {result}.")
     except ValueError:
-        print("Please enter a valid integer.")
+        print("Please enter valid integer.")
 
 
 if __name__ == "__main__":
