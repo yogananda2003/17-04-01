@@ -5,7 +5,7 @@ def multiply_numbers(a: int, b: int) -> int:
 
 def main() -> None:
     try:
-        first = int(input("Enter first number: "))
+        first = int(input("Enter first numbe: "))
         second = int(input("Enter second number: "))
         result = multiply_numbers(first, second)
         print(f"Multiplication result: {result}")
