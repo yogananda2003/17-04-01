@@ -6,7 +6,7 @@ def multiply_numbers(a: int, b: int) -> int:
 def main() -> None:
     try:
         first = int(input("Enter first numbe: "))
-        second = int(input("Enter second numr: "))
+        second = int(input("Enter second num: "))
         result = multiply_numbers(first, second)
         print(f"Multiplication result: {result}")
     except ValueError:
