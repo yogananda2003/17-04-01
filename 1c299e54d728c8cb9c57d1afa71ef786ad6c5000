@@ -1,0 +1,14 @@
+multi.py
+  h_9b907d5b46313e 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "1c299e54d728c8cb9c57d1afa71ef786ad6c5000",
+  "prompts": {},
+  "humans": {
+    "h_9b907d5b46313e": {
+      "author": "Yogananda.b"
+    }
+  }
+}

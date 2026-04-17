@@ -1,0 +1,23 @@
+check_ai_generated.py
+  4064b2ea9c47bed0 1-5,8-15,18-25,28-32,35-42,44-52,54,57-78,80-83,85-93,95-100,102-108,110-117,119-126,128-133,135-137,139-143,146-147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "eb08e58659630b755b9c3ab063317fc150a8475d",
+  "prompts": {
+    "4064b2ea9c47bed0": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "99ae7c45-bb82-4a9c-ae1a-3defc639c63e",
+        "model": "default"
+      },
+      "human_author": "Yogananda.b",
+      "messages": [],
+      "total_additions": 147,
+      "total_deletions": 0,
+      "accepted_lines": 124,
+      "overriden_lines": 0
+    }
+  }
+}

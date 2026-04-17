@@ -1,0 +1,23 @@
+addition.py
+  4064b2ea9c47bed0 1-2,5-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "cdc399b9bdd8097d97868abb21e4632b8e7e74e0",
+  "prompts": {
+    "4064b2ea9c47bed0": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "99ae7c45-bb82-4a9c-ae1a-3defc639c63e",
+        "model": "default"
+      },
+      "human_author": "Yogananda.b",
+      "messages": [],
+      "total_additions": 8,
+      "total_deletions": 0,
+      "accepted_lines": 6,
+      "overriden_lines": 0
+    }
+  }
+}

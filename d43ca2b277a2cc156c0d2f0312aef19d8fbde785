@@ -1,0 +1,23 @@
+odd_even.py
+  c22c7b33a310e200 1-3,6-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "d43ca2b277a2cc156c0d2f0312aef19d8fbde785",
+  "prompts": {
+    "c22c7b33a310e200": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "dfb4a94b-f1e8-4c64-a175-25c8eba2bb60",
+        "model": "default"
+      },
+      "human_author": "Yogananda.b",
+      "messages": [],
+      "total_additions": 12,
+      "total_deletions": 0,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    }
+  }
+}

@@ -1,0 +1,23 @@
+multi.py
+  6306c639e0801a6b 1-3,6-13,16-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "0234098476f9f7d94c7411c1684cf94be75ac7de",
+  "prompts": {
+    "6306c639e0801a6b": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7ba367ae-a546-4513-bc93-e4a2e9781d1e",
+        "model": "default"
+      },
+      "human_author": "Yogananda.b",
+      "messages": [],
+      "total_additions": 17,
+      "total_deletions": 0,
+      "accepted_lines": 13,
+      "overriden_lines": 0
+    }
+  }
+}
